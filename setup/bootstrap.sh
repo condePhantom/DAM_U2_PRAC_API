@@ -5,7 +5,7 @@ sudo apt-get update
 
 # Install nginx
 sudo apt-get install -y nginx
-sudo cp /vagrant/setup/sites-available /etc/nginx/sites-available/default
+sudo cp ./sites-available /etc/nginx/sites-available/default.
 sudo systemctl restart nginx
 
 # install NodeJS
