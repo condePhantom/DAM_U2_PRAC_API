@@ -1,4 +1,4 @@
 Integrantes:
-Pérez González César Antonio
-Sánchez López Luis Alberto
+Pérez González César Antonio<br>
+Sánchez López Luis Alberto<br>
 Valencia Zavala Julio César
