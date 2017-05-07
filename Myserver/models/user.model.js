@@ -1,7 +1,7 @@
 let mongoose=require('mongoose');
 
 let userSchema={
-    _id:{type:Number,required:true},
+    //_id:{type:Number,required:true},
     name: {type:String,required:true},
     email:{type:String,required:true},
     password:{type:String,required:true},
